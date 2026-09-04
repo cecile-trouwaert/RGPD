@@ -22,7 +22,7 @@ L'étude porte notamment sur la gestion des données personnelles, l'analyse des
 
 ## 📄 Rapport du projet
 
-👉 [**Consulter le rapport complet au format PDF**](Projet_RGPD_X-Corp.pdf)
+👉 [**📥 Télécharger le rapport complet au format PDF**](https://github.com/cecile-trouwaert/RGPD/raw/refs/heads/main/Projet_RGPD_X-Corp.pdf)
 
 ---
 
